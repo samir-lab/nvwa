@@ -1,0 +1,7 @@
+{
+    "group": "corp",
+    "name": "nvwa-portal",
+    "version": "1.0.0",
+    "type": "normal",
+    "dependencies": []
+}
